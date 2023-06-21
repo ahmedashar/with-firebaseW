@@ -1,0 +1,22 @@
+.main_container{
+    background-color: #8696FE;
+    height: 100vh;
+}
+.login_container{
+    position: relative;
+    top: 10%;
+
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 8px;
+    width: 650px;
+    height: 350px;
+    padding: 20px;
+}
+.login_btn{
+    float: right;
+}
+.login_heading{
+    color: #11009E;
+    text-align: center;
+}
